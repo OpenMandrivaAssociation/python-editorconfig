@@ -2,7 +2,7 @@
 
 Name:		python-editorconfig
 Version:	0.17.1
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/e/%{module}/%{module}-%{version}.tar.gz
 Summary:	EditorConfig File Locator and Interpreter for Python
 URL:		https://pypi.org/project/editorconfig/
